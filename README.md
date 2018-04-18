@@ -1,4 +1,9 @@
 ﻿# Servidor Sockets Web
+ 
+## Informação de acesso ao projeto
+
+Repositório:
+    https://github.com/Elian07/trabalhoRedes/
 
 ## Descrição
 
